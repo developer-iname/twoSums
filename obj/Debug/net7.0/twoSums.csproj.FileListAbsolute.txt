@@ -1,0 +1,15 @@
+/home/Owner/Documents/dotNet/twoSums/obj/Debug/net7.0/twoSums.csproj.AssemblyReference.cache
+/home/Owner/Documents/dotNet/twoSums/obj/Debug/net7.0/twoSums.GeneratedMSBuildEditorConfig.editorconfig
+/home/Owner/Documents/dotNet/twoSums/obj/Debug/net7.0/twoSums.AssemblyInfoInputs.cache
+/home/Owner/Documents/dotNet/twoSums/obj/Debug/net7.0/twoSums.AssemblyInfo.cs
+/home/Owner/Documents/dotNet/twoSums/obj/Debug/net7.0/twoSums.csproj.CoreCompileInputs.cache
+/home/Owner/Documents/dotNet/twoSums/bin/Debug/net7.0/twoSums
+/home/Owner/Documents/dotNet/twoSums/bin/Debug/net7.0/twoSums.deps.json
+/home/Owner/Documents/dotNet/twoSums/bin/Debug/net7.0/twoSums.runtimeconfig.json
+/home/Owner/Documents/dotNet/twoSums/bin/Debug/net7.0/twoSums.dll
+/home/Owner/Documents/dotNet/twoSums/bin/Debug/net7.0/twoSums.pdb
+/home/Owner/Documents/dotNet/twoSums/obj/Debug/net7.0/twoSums.dll
+/home/Owner/Documents/dotNet/twoSums/obj/Debug/net7.0/refint/twoSums.dll
+/home/Owner/Documents/dotNet/twoSums/obj/Debug/net7.0/twoSums.pdb
+/home/Owner/Documents/dotNet/twoSums/obj/Debug/net7.0/twoSums.genruntimeconfig.cache
+/home/Owner/Documents/dotNet/twoSums/obj/Debug/net7.0/ref/twoSums.dll
