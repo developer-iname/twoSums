@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g9TEDwz39HkhkZ66IsDxYTsItNCfE4C0FQNZaXRzi12dRhWHI1vTBPMEnmXso3WxKf350FwVV4XRyMmMgs3kSQ==",
+  "success": true,
+  "projectFilePath": "/home/Owner/Documents/dotNet/twoSums/twoSums.csproj",
+  "expectedPackageFiles": [
+    "/home/Owner/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.9/microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
