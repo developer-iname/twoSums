@@ -11,23 +11,12 @@ int[] TwoSum(int[] nums, int target) {
     int sumReturned = 0;
     for(int x = 0; x < nums.Length; x++)
     {
-        if(nums[x] > target)
+        for(int i = x + 1; i < nums.Length; i++)
         {
-            break;
-        }
-        else
-        {
-            for(int i = x + 1; i < nums.Length; i++)
+            sumReturned = nums[x] + nums[i];
+            if(sumReturned == target)
             {
-                if(nums[i] > target)
-                {
-                    break;
-                }
-                sumReturned = nums[x] + nums[i];
-                if(sumReturned == target)
-                {
-                    return new int[] {x,i};
-                }
+                return new int[] {x,i};
             }
         }
     }
